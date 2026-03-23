@@ -59,8 +59,9 @@ The following figures from the paper are reproduced using the corresponding exer
 ## ▶️ How to Run
 
 ```bash
+python -m venv test_env
+test_env\Scripts\activate
 pip install -r requirements.txt
-jupyter notebook
 ```
 
 ---
