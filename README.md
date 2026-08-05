@@ -13,7 +13,7 @@ The implementation follows exercises from the book:
 
 ## 🧠 Methodology
 
-- Derivation of equations of motion using **Kane’s method** (SymPy)
+- Derivation of equations of motion using both **Lagrange's method** and **Kane’s method** (SymPy)
 - Numerical integration using **SciPy ODE solvers**
 - Validation through comparison with published results
 
@@ -58,11 +58,23 @@ The following figures from the paper are reproduced using the corresponding exer
 
 ## ▶️ How to Run
 
+Create and activate a virtual environment on Windows, then install the required dependencies:
+
 ```bash
 python -m venv test_env
 test_env\Scripts\activate
 pip install -r requirements.txt
 ```
+
+## Running the notebooks
+
+With the virtual environment activated, launch Jupyter:
+
+```bash
+jupyter notebook
+```
+
+This will open Jupyter in your default web browser. From there, navigate to the repository folder and open any `.ipynb` notebook.
 
 ---
 
