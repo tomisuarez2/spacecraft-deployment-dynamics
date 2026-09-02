@@ -110,5 +110,5 @@ This will open Jupyter in your default web browser. From there, navigate to the 
 
 If you have questions or want to collaborate, feel free to reach out:
 **Tomás Suárez**
-Mechatronics Engineering Student
+Mechatronics Engineer
 📧 [suareztomasm@gmail.com](mailto:suareztomasm@gmail.com)
