@@ -29,9 +29,6 @@ The following figures from the paper are reproduced using the corresponding exer
 - **Figure 8 (INSAT planar model)**  
   → Reproduced using *Exercise 1.28a*
 
-- **Figure 9a (INSAT free-base with slotted link)**  
-  → Reproduced using *Exercise 1.28b*
-
 ---
 
 ## 🧠 Technical Highlights
@@ -43,7 +40,6 @@ The following figures from the paper are reproduced using the corresponding exer
 - Handling:
     - Nonlinear coupling
     - Constraint forces
-    - Switching dynamics (slotted link)
 
 ---
 
@@ -93,14 +89,6 @@ This will open Jupyter in your default web browser. From there, navigate to the 
   <img src="results/fig8_replication.png" width="45%" />
   <p>
     <em>Left: Original Figure 8 | Right: Reproduced result</em>
-  </p>
-</div>
-
-<div align="center">
-  <img src="results/fig9a.png" width="45%" />
-  <img src="results/fig9a_replication.png" width="45%" />
-  <p>
-    <em>Left: Original Figure 9a | Right: Reproduced result</em>
   </p>
 </div>
 
