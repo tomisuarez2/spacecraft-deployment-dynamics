@@ -9,6 +9,14 @@ The implementation follows exercises from the book:
 
 > **Space Vehicle Dynamics and Control** — B. Wie
 
+Lagrange's method theory
+
+> **Analytical Mechanics** - L. H. Hand & J. D. Finch 
+
+Kane's method theory
+
+> **Dynamics, Theory and Applications** - T. R. Kane & D. A. Levinson
+
 ---
 
 ## 🧠 Methodology
